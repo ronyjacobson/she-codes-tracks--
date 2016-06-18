@@ -88,11 +88,9 @@ SheCodesTracks.prototype.onAuthStateChanged = function (user) {
         this.signOutButton.setAttribute('hidden', 'true');
         this.authContainer.removeAttribute('hidden');
         this.noUserPic.removeAttribute('hidden');
-        this.accessToken = null;
 
         // User is signed out.
         document.getElementById('sign-in-status').textContent = 'Signed out';
-
     }
 };
 
