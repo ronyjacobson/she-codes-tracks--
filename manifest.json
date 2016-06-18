@@ -1,0 +1,7 @@
+{
+  "name": "she codes(tracks);",
+  "short_name": "she codes(tracks);",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}

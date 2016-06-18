@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "name": "she codes(tracks);",
+  "launch_path": "/index.html",
+  "description": "she codes; learning tracks",
+  "developer": {
+    "name": "Rony Jacobson"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "she codes(tracks);",
+      "description": "she codes; learning tracks"
+    }
+    "he": {
+      "name": "she codes(tracks);",
+      "description": "מסלולי הלימוד של ארגון she codes"
+    }
+  }
+}
